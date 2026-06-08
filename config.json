@@ -1,0 +1,11 @@
+{
+  "clientId": "",
+  "prefix": "!",
+  "token": "",
+  "authorizedRoleId": [
+  ],
+  "googleVisionApiKey": "",
+  "payoutRoleId": null,
+  "payoutFraisGuilde": 5,
+  "payoutEnchereDepart": 15
+}
